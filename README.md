@@ -3,7 +3,7 @@ Lab 3 focuses on exploring and analyzing a dataset using Jupyter Notebook.
 The lab involves performing exploratory data analysis (EDA), including checking for missing values, understanding the dataset structure, and generating summary statistics. Key tasks include creating derived columns (e.g., Age groups), and visualizing the data using Matplotlib and Seaborn to uncover patterns, trends, and relationships between features.
 
 
-About Dataset
+About Dataset:
 
 This dataset provides detailed medical diagnostic measurements that were collected to predict the onset of diabetes based on several health factors. It consists of 768 records of female patients, each characterized by 8 health-related attributes. The Outcome variable indicates whether the patient has diabetes (1) or not (0). The dataset can be used to train and test machine learning models for classification tasks related to diabetes prediction.
 
