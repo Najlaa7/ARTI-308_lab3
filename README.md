@@ -4,6 +4,7 @@ The lab involves performing exploratory data analysis (EDA), including checking 
 
 
 About Dataset
+
 This dataset provides detailed medical diagnostic measurements that were collected to predict the onset of diabetes based on several health factors. It consists of 768 records of female patients, each characterized by 8 health-related attributes. The Outcome variable indicates whether the patient has diabetes (1) or not (0). The dataset can be used to train and test machine learning models for classification tasks related to diabetes prediction.
 
 Dataset Columns:
